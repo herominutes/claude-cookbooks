@@ -4,9 +4,9 @@ version = "0.1.0"
 requires-python = ">=3.11,<3.13"
 dependencies = [
     "anthropic>=0.109.0",
-    "claude-agent-sdk>=0.1.50",
+    "claude-agent-sdk>=0.2.168",
     "ipykernel>=7.1.0",
-    "notebook>=7.4.7",
+    "notebook>=7.6.3",
     "numpy>=2.3.4",
     "pandas>=2.3.3",
     "jupyter>=1.1.1",
